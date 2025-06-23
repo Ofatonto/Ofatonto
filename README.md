@@ -1,6 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ofatonto!;&color=2AA745" />
-</h1>
+<div align="center">
+  <img src="https://nurseslabs.com/wp-content/uploads/2015/03/reactiongifs-63.gif" width="1280" style="margin-bottom: 20px;">
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3000&pause=500&color=2AA745&center=true&vCenter=true&width=550&lines=Hello+There!+I'm+Ofatonto;Full-Stack+Developer;Open-Source+Contributor;Problem+Solver" alt="Typing Animation">
+  </h1>
+</div>
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
